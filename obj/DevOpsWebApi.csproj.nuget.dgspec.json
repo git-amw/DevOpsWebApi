@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "D:\\github\\dotnet\\DevOpsWebApi\\DevOpsWebApi.csproj": {}
+    "D:\\DevOpsWebApi\\DevOpsWebApi.csproj": {}
   },
   "projects": {
-    "D:\\github\\dotnet\\DevOpsWebApi\\DevOpsWebApi.csproj": {
+    "D:\\DevOpsWebApi\\DevOpsWebApi.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\github\\dotnet\\DevOpsWebApi\\DevOpsWebApi.csproj",
+        "projectUniqueName": "D:\\DevOpsWebApi\\DevOpsWebApi.csproj",
         "projectName": "DevOpsWebApi",
-        "projectPath": "D:\\github\\dotnet\\DevOpsWebApi\\DevOpsWebApi.csproj",
-        "packagesPath": "C:\\Users\\amardeepsingh01\\.nuget\\packages\\",
-        "outputPath": "D:\\github\\dotnet\\DevOpsWebApi\\obj\\",
+        "projectPath": "D:\\DevOpsWebApi\\DevOpsWebApi.csproj",
+        "packagesPath": "C:\\Users\\amar7\\.nuget\\packages\\",
+        "outputPath": "D:\\DevOpsWebApi\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\amardeepsingh01\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\amar7\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -41,6 +41,10 @@
         "net5.0": {
           "targetAlias": "net5.0",
           "dependencies": {
+            "Microsoft.VisualStudio.Azure.Containers.Tools.Targets": {
+              "target": "Package",
+              "version": "[1.18.1, )"
+            },
             "Swashbuckle.AspNetCore": {
               "target": "Package",
               "version": "[5.6.3, )"

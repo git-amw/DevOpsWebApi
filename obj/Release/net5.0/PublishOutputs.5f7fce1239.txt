@@ -1,0 +1,11 @@
+D:\DevOpsWebApi\obj\Docker\publish\DevOpsWebApi.exe
+D:\DevOpsWebApi\obj\Docker\publish\appsettings.Development.json
+D:\DevOpsWebApi\obj\Docker\publish\appsettings.json
+D:\DevOpsWebApi\obj\Docker\publish\DevOpsWebApi.dll
+D:\DevOpsWebApi\obj\Docker\publish\DevOpsWebApi.deps.json
+D:\DevOpsWebApi\obj\Docker\publish\DevOpsWebApi.runtimeconfig.json
+D:\DevOpsWebApi\obj\Docker\publish\DevOpsWebApi.pdb
+D:\DevOpsWebApi\obj\Docker\publish\Microsoft.OpenApi.dll
+D:\DevOpsWebApi\obj\Docker\publish\Swashbuckle.AspNetCore.Swagger.dll
+D:\DevOpsWebApi\obj\Docker\publish\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\DevOpsWebApi\obj\Docker\publish\Swashbuckle.AspNetCore.SwaggerUI.dll
